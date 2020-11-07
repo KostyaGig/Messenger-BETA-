@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623229933590",
+    "firebase_url": "https://chat-b253a.firebaseio.com",
+    "project_id": "chat-b253a",
+    "storage_bucket": "chat-b253a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623229933590:android:8be361ea8767fa6f063d37",
+        "android_client_info": {
+          "package_name": "com.kostya_zinoviev.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623229933590-oq3lds87rl7ca5jcoshfci2esj3aorkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kostya_zinoviev.messenger",
+            "certificate_hash": "66d8a1bf71642c2b94875d5602a7d5f65b1d70b7"
+          }
+        },
+        {
+          "client_id": "623229933590-5ogm8ge6t5g95tellegb9k3vlf15lanb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZZ1ixClSgLefUWx8YigFp9y2Vm6qxEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623229933590-5ogm8ge6t5g95tellegb9k3vlf15lanb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
